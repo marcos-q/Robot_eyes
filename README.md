@@ -11,4 +11,8 @@ En el bucle principal (void Loop()), se reproduce una primera secuencia de movie
 
 El código se podría mejorar añadiendo más expresiones, encapsulando en envío de datos al MAX7219 en una función y puliendo algún que otro detalle.
 
+<p align="center">
+  <img src="https://github.com/marcos-q/Robot_eyes/blob/master/img/robot_eyes.png" width="450"/>
+</p>
+
 
